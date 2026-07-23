@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Data_Structures_and_Algorithms/Week_1_Data_Structures_and_Algorithms.iml" filepath="$PROJECT_DIR$/Week_1_Data_Structures_and_Algorithms/Week_1_Data_Structures_and_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Design_pattern_and_principles/Week_1_Design_pattern_and_principles.iml" filepath="$PROJECT_DIR$/Week_1_Design_pattern_and_principles/Week_1_Design_pattern_and_principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_2_PL_SQL programming/Week_2_PL_SQL programming.iml" filepath="$PROJECT_DIR$/Week_2_PL_SQL programming/Week_2_PL_SQL programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_2_SLF4J_logging_framework/Week_2_SLF4J_logging_framework.iml" filepath="$PROJECT_DIR$/Week_2_SLF4J_logging_framework/Week_2_SLF4J_logging_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_2_TDD_using_JUnit5_and_Mockito/Week_2_TDD_using_JUnit5_and_Mockito.iml" filepath="$PROJECT_DIR$/Week_2_TDD_using_JUnit5_and_Mockito/Week_2_TDD_using_JUnit5_and_Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_3_Spring_Core_and_Maven/Week_3_Spring_Core_and_Maven.iml" filepath="$PROJECT_DIR$/Week_3_Spring_Core_and_Maven/Week_3_Spring_Core_and_Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_4_Spring_Data_JPA_with_Spring_Boot_Hibernate/Week_4_Spring_Data_JPA_with_Spring_Boot_Hibernate.iml" filepath="$PROJECT_DIR$/Week_4_Spring_Data_JPA_with_Spring_Boot_Hibernate/Week_4_Spring_Data_JPA_with_Spring_Boot_Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_4_Spring_REST_using_Spring_Boot_3/Week_4_Spring_REST_using_Spring_Boot_3.iml" filepath="$PROJECT_DIR$/Week_4_Spring_REST_using_Spring_Boot_3/Week_4_Spring_REST_using_Spring_Boot_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/Week_5_Microservices_with_Spring_Boot_3_and_Spring_Cloud.iml" filepath="$PROJECT_DIR$/Week_5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/Week_5_Microservices_with_Spring_Boot_3_and_Spring_Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/digital nurture.iml" filepath="$PROJECT_DIR$/.idea/digital nurture.iml" />
+    </modules>
+  </component>
+</project>
